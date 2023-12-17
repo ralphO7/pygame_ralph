@@ -1,7 +1,6 @@
 import pygame
 import random
 import math
-from column import Column
 import time
 
 running = True
